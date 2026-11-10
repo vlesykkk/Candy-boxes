@@ -1,0 +1,6 @@
+body { background: #f8f1ea; }
+.candy-img { height: 160px; object-fit: cover; }
+.candy-card { transition: transform .15s ease, box-shadow .15s ease; }
+.candy-card:hover { transform: translateY(-4px); box-shadow: 0 .5rem 1rem rgba(60,30,10,.2); }
+.btn-choc { background: #5a3825; color: #fff; }
+.btn-choc:hover { background: #3f2415; color: #fff; }
